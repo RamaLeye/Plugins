@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\PluginSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\PluginSystem\\PluginSystem.csproj",
       "projectName": "PluginSystem",
-      "projectPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\PluginSystem.csproj",
+      "projectPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\PluginSystem\\PluginSystem.csproj",
       "packagesPath": "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\obj\\",
+      "outputPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\PluginSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

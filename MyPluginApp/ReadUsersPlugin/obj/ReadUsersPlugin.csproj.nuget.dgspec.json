@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\ReadUsersPlugin\\ReadUsersPlugin.csproj": {}
+    "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\ReadUsersPlugin\\ReadUsersPlugin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\PluginSystem.csproj": {
+    "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\PluginSystem\\PluginSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\PluginSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\PluginSystem\\PluginSystem.csproj",
         "projectName": "PluginSystem",
-        "projectPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\PluginSystem.csproj",
+        "projectPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\PluginSystem\\PluginSystem.csproj",
         "packagesPath": "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\obj\\",
+        "outputPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\PluginSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\ReadUsersPlugin\\ReadUsersPlugin.csproj": {
+    "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\ReadUsersPlugin\\ReadUsersPlugin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\ReadUsersPlugin\\ReadUsersPlugin.csproj",
+        "projectUniqueName": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\ReadUsersPlugin\\ReadUsersPlugin.csproj",
         "projectName": "ReadUsersPlugin",
-        "projectPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\ReadUsersPlugin\\ReadUsersPlugin.csproj",
+        "projectPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\ReadUsersPlugin\\ReadUsersPlugin.csproj",
         "packagesPath": "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\ReadUsersPlugin\\obj\\",
+        "outputPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\ReadUsersPlugin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -93,8 +93,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\PluginSystem.csproj": {
-                "projectPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\PluginSystem.csproj"
+              "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\PluginSystem\\PluginSystem.csproj": {
+                "projectPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\PluginSystem\\PluginSystem.csproj"
               }
             }
           }

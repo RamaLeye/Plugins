@@ -76,11 +76,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\NoticePlugin\\NoticePlugin.csproj",
+      "projectUniqueName": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\NoticePlugin\\NoticePlugin.csproj",
       "projectName": "NoticePlugin",
-      "projectPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\NoticePlugin\\NoticePlugin.csproj",
+      "projectPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\NoticePlugin\\NoticePlugin.csproj",
       "packagesPath": "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\NoticePlugin\\obj\\",
+      "outputPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\NoticePlugin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -100,8 +100,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\PluginSystem.csproj": {
-              "projectPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\PluginSystem.csproj"
+            "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\PluginSystem\\PluginSystem.csproj": {
+              "projectPath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\PluginSystem\\PluginSystem.csproj"
             }
           }
         }

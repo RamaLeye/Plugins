@@ -10,3 +10,15 @@ C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPlugi
 C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\ReadUsersPlugin\obj\Debug\netcoreapp3.1\ReadUsersPlugin.csproj.CopyComplete
 C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\ReadUsersPlugin\obj\Debug\netcoreapp3.1\ReadUsersPlugin.dll
 C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\ReadUsersPlugin\obj\Debug\netcoreapp3.1\ReadUsersPlugin.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\ReadUsersPlugin\bin\Debug\netcoreapp3.1\ReadUsersPlugin.deps.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\ReadUsersPlugin\bin\Debug\netcoreapp3.1\ReadUsersPlugin.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\ReadUsersPlugin\bin\Debug\netcoreapp3.1\ReadUsersPlugin.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\ReadUsersPlugin\bin\Debug\netcoreapp3.1\PluginSystem.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\ReadUsersPlugin\bin\Debug\netcoreapp3.1\PluginSystem.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\ReadUsersPlugin\obj\Debug\netcoreapp3.1\ReadUsersPlugin.csprojAssemblyReference.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\ReadUsersPlugin\obj\Debug\netcoreapp3.1\ReadUsersPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\ReadUsersPlugin\obj\Debug\netcoreapp3.1\ReadUsersPlugin.AssemblyInfoInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\ReadUsersPlugin\obj\Debug\netcoreapp3.1\ReadUsersPlugin.AssemblyInfo.cs
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\ReadUsersPlugin\obj\Debug\netcoreapp3.1\ReadUsersPlugin.csproj.CopyComplete
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\ReadUsersPlugin\obj\Debug\netcoreapp3.1\ReadUsersPlugin.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\ReadUsersPlugin\obj\Debug\netcoreapp3.1\ReadUsersPlugin.pdb

@@ -7,3 +7,12 @@ C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPlugi
 C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\PluginSystem\obj\Debug\netcoreapp3.1\PluginSystem.dll
 C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\PluginSystem\obj\Debug\netcoreapp3.1\PluginSystem.pdb
 C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\PluginSystem\obj\Debug\netcoreapp3.1\PluginSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\PluginSystem\bin\Debug\netcoreapp3.1\PluginSystem.deps.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\PluginSystem\bin\Debug\netcoreapp3.1\PluginSystem.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\PluginSystem\bin\Debug\netcoreapp3.1\PluginSystem.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\PluginSystem\obj\Debug\netcoreapp3.1\PluginSystem.csprojAssemblyReference.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\PluginSystem\obj\Debug\netcoreapp3.1\PluginSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\PluginSystem\obj\Debug\netcoreapp3.1\PluginSystem.AssemblyInfoInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\PluginSystem\obj\Debug\netcoreapp3.1\PluginSystem.AssemblyInfo.cs
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\PluginSystem\obj\Debug\netcoreapp3.1\PluginSystem.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3_plugins\TP3_PatronsModele_plugins\MyPluginApp\PluginSystem\obj\Debug\netcoreapp3.1\PluginSystem.pdb

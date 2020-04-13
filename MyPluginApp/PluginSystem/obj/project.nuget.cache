@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XD3ZG/Rrr7LRx+0RRHhDTRiz4e11Nt592AHVMI4kljfZ5hJxe13XbLEvK/x1WkI8rTG3yn9uY8LP/asrV7yLGQ==",
+  "dgSpecHash": "jiNArN5kgrwvnUNLr9BH9eaMB5jY1GDG9KPDW2D8s4u5t3/WgKsrormnZWlt1E22nUEq6rOSKv1TFaiLYrKd7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\PluginSystem.csproj",
+  "projectFilePath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3_plugins\\TP3_PatronsModele_plugins\\MyPluginApp\\PluginSystem\\PluginSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
