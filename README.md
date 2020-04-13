@@ -5,8 +5,8 @@ Ma solution comprend 4 projets :
 
 - MyPluginApp : un projet console et qui contient le main. C'est le projet principal
 - PluginBase : une librairie de classes (DLL) où on retrouve l'interface IPlugin qu'implementeront tous nos plugins 
-- NoticePlugin : un plugin de test
-- ReadUsersPlugin : le plugin répondant à ce TP
+- NoticePlugin : un plugin de test de type DLL
+- ReadUsersPlugin : le plugin répondant à ce TP de type DLL
 
 Ainsi, nous partons sur 2 projets principaux qui sont MuPluginApp et PluginBase, et plus on a de plugins, plus le nombre de projets augmentera.
 
