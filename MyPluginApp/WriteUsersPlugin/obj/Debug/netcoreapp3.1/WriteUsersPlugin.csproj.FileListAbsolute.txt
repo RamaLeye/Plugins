@@ -1,0 +1,11 @@
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\WriteUsersPlugin\bin\Debug\netcoreapp3.1\WriteUsersPlugin.deps.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\WriteUsersPlugin\bin\Debug\netcoreapp3.1\WriteUsersPlugin.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\WriteUsersPlugin\bin\Debug\netcoreapp3.1\WriteUsersPlugin.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\WriteUsersPlugin\bin\Debug\netcoreapp3.1\PluginSystem.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\WriteUsersPlugin\bin\Debug\netcoreapp3.1\PluginSystem.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\WriteUsersPlugin\obj\Debug\netcoreapp3.1\WriteUsersPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\WriteUsersPlugin\obj\Debug\netcoreapp3.1\WriteUsersPlugin.AssemblyInfoInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\WriteUsersPlugin\obj\Debug\netcoreapp3.1\WriteUsersPlugin.AssemblyInfo.cs
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\WriteUsersPlugin\obj\Debug\netcoreapp3.1\WriteUsersPlugin.csproj.CopyComplete
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\WriteUsersPlugin\obj\Debug\netcoreapp3.1\WriteUsersPlugin.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP3\MyPluginApp\WriteUsersPlugin\obj\Debug\netcoreapp3.1\WriteUsersPlugin.pdb

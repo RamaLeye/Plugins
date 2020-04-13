@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CfgMMxGDz/lb2TZpUHQQoTcPj6cjQ6euPqAiYudbqhKId6dwpA8ji3etJWVzfvN2N/wHIYSxHPhcj9XPsatZow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\NoticePlugin\\NoticePlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

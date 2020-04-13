@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XD3ZG/Rrr7LRx+0RRHhDTRiz4e11Nt592AHVMI4kljfZ5hJxe13XbLEvK/x1WkI8rTG3yn9uY8LP/asrV7yLGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\PluginSystem\\PluginSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

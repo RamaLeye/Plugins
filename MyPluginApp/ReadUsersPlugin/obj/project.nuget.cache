@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7JQ3E/Fb64C52fxIrYncFW/4sYjHbSGJzTWwkGBB/VU6X87rWtqirsx3rvi5mejCZB/7vf2PiK/Zr1HMAk9eKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP3\\MyPluginApp\\ReadUsersPlugin\\ReadUsersPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
